@@ -3,7 +3,7 @@ A search engine built using tools from LangChain.
 
 # Technologies used
 **Web Interface**: Streamlit <br>
-**LLM**: llama3-8b-8192 (via Groq) <br>
+**LLM**: Mistral Small <br>
 **Tools**: Arxiv, Wikipedia, DuckDuckGoSearch <br>
 
 # Setup
